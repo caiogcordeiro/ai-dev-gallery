@@ -11,14 +11,11 @@ using System.Runtime.CompilerServices;
 using System.Threading;
 using System.Threading.Tasks;
 using Windows.Foundation;
-using WinUIEx.Messaging;
 
-namespace AIDevGallery.Samples.SharedCode;
+namespace AIDevGallery.Samples.SharedCode.WcrApis;
 
 internal class PhiSilicaClient : IChatClient
 {
-    private const string TEMPLATE_PLACEHOLDER = "{{CONTENT}}";
-
     // Search Options
     private const int DefaultTopK = 50;
     private const float DefaultTopP = 0.9f;
