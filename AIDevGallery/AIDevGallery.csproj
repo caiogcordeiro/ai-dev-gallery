@@ -322,6 +322,4 @@
       <UserProperties />
     </VisualStudio>
   </ProjectExtensions>
-
-  <Import Project="$(MSBuildThisFileDirectory)\WinAppSDKSelfContainedFix.targets" Condition="'$(WindowsAppSDKSelfContained)'=='true'" />
 </Project>
