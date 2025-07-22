@@ -14,7 +14,7 @@ Designed for Windows developers, the AI Dev Gallery helps integrate AI capabilit
 - **View the C# source code and export standalone Visual Studio projects with a single click**
 
 <p align="center">
-<img src="docs/images/HeroImage1.png" alt="AI Dev Gallery" width="600"/>
+<img src="docs/images/HeroImage1.png" alt="AI Dev Gallery application interface showing a modern, welcoming dashboard with a search bar, sample cards, and a prominent header reading AI Dev Gallery. The environment is bright and clean, evoking a sense of innovation and accessibility. Text in the image includes AI Dev Gallery and Summarize this document. The overall tone is inviting and user-friendly." width="600"/>
 </p>
 <p align="center">
 <a href="http://aka.ms/ai-dev-gallery-store">
